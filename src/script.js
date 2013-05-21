@@ -27,4 +27,9 @@ $(function() {
 		return false;
 	});
 
+	$('#middle-accueil p a').on('click', function() {
+		var navlink = $("nav a[data-middle='" + $(this)[0].dataset.middle + "']");
+		navlink.click();
+	});
+
 });

@@ -4,6 +4,17 @@ body {
 	color: #EEE;
 }
 
+p {
+    font-family: 'Wellfleet', sans-serif;
+    text-align: left;
+}
+
+#middle p a {
+    text-decoration: none;
+    color: #3BD2FF;
+    text-shadow: 1px 1px 1px #004B62;
+}
+
 #main {
 	text-align: center;
 }
@@ -48,6 +59,8 @@ nav a:hover {
 }
 
 #middle {
+    margin: auto;
 	margin-top: 10px;
 	padding-top: 10px;
+    width: 550px;
 }

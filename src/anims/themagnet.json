@@ -1,6 +1,6 @@
 {
    "standing": {
-        "dir": "themagnet/standing/",
+        "dir": "img/themagnet/standing/",
         "imgs": [
            {"file": "1.png", "duration": 0.090, "width": 64, "height": 64, "dx": 0, "dy": 0},
            {"file": "2.png", "duration": 0.090, "width": 64, "height": 64, "dx": 0, "dy": 0},
@@ -12,7 +12,7 @@
        "leadTo": "standing"
    },
     "running": {
-        "dir": "themagnet/running/",
+        "dir": "img/themagnet/running/",
         "imgs": [
            {"file": "1.png", "duration": 0.090, "width": 64, "height": 64, "dx": 0, "dy": 0},
            {"file": "2.png", "duration": 0.090, "width": 64, "height": 64, "dx": 0, "dy": 0},
@@ -27,7 +27,7 @@
         "leadTo": "running"
    },
    "startjumping": {
-        "dir": "themagnet/startjumping/",
+        "dir": "img/themagnet/startjumping/",
         "imgs": [
            {"file": "1.png", "duration": 0.090, "width": 64, "height": 64, "dx": 0, "dy": 0},
            {"file": "2.png", "duration": 0.090, "width": 64, "height": 64, "dx": 0, "dy": 0},
@@ -36,7 +36,7 @@
        "leadTo": "jumping"
    },
    "jumping": {
-        "dir": "themagnet/jumping/",
+        "dir": "img/themagnet/jumping/",
         "imgs": [
            {"file": "1.png", "duration": 0.090, "width": 64, "height": 64, "dx": 0, "dy": 0},
            {"file": "2.png", "duration": 0.090, "width": 64, "height": 64, "dx": 0, "dy": 0}
@@ -44,7 +44,7 @@
        "leadTo": "jumping"
    },
    "landing": {
-        "dir": "themagnet/landing/",
+        "dir": "img/themagnet/landing/",
         "imgs": [
            {"file": "1.png", "duration": 0.090, "width": 64, "height": 64, "dx": 0, "dy": 0},
            {"file": "2.png", "duration": 0.090, "width": 64, "height": 64, "dx": 0, "dy": 0},
@@ -53,14 +53,14 @@
        "leadTo": "standing"
    },
    "stoprunning": {
-        "dir": "themagnet/stoprunning/",
+        "dir": "img/themagnet/stoprunning/",
         "imgs": [
            {"file": "1.png", "duration": 0.090, "width": 64, "height": 64, "dx": 0, "dy": 0}
         ],
        "leadTo": "standing"
    },
    "mortelec": {
-        "dir": "themagnet/mortelec/",
+        "dir": "img/themagnet/mortelec/",
         "imgs": [
            {"file": "1.png", "duration": 0.090, "width": 64, "height": 64, "dx": 0, "dy": 0},
            {"file": "2.png", "duration": 0.090, "width": 64, "height": 64, "dx": 0, "dy": 0},
@@ -74,14 +74,14 @@
        "leadTo": "mort"
    },
    "mort": {
-        "dir": "themagnet/mort/",
+        "dir": "img/themagnet/mort/",
         "imgs": [
            {"file": "1.png", "duration": 0.090, "width": 64, "height": 64, "dx": 0, "dy": 0}
         ],
        "leadTo": "mort"
    },
    "returning": {
-        "dir": "themagnet/returning/",
+        "dir": "img/themagnet/returning/",
         "imgs": [
            {"file": "1.png", "duration": 0.090, "width": 64, "height": 64, "dx": 0, "dy": 0}
         ],
